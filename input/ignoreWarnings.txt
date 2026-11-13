@@ -4,3 +4,51 @@
 # Kopiert dazu den Text der Warnung exakt in eine eigene Zeile.
 # Schreibt über jede unterdrückte Warnung einen Kommentar mit dem Grund.
 # Errors lassen sich nicht unterdrücken, die müsst ihr beheben.
+
+
+== Suppressed Messages ==
+
+# Die CH-Term-Version 3.3.0 wird gemäss Aufgabenstellung verwendet. Ein Update auf 3.4.0 ist deshalb nicht vorgesehen.
+The ImplementationGuide uses package ch.fhir.ig.ch-term#3.3.0 released on 2025-12-15, but the most recent appropriate version is 3.4.0. This reference is getting old and the more recent version should be considered
+
+# Die fehlerhafte HTML-Struktur stammt aus der automatisch generierten Suchseite des IG-Templates und nicht aus unserem eigenen Seiteninhalt.
+The html source is not well formed: Found "</a>" expecting "</img>" at line 34 column 177
+
+# Die fehlerhafte HTML-Struktur stammt aus der automatisch generierten Suchseite des IG-Templates und nicht aus unserem eigenen Seiteninhalt.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 79 column 10
+
+# Die fehlerhafte HTML-Struktur stammt aus der automatisch generierten Suchseite des IG-Templates und nicht aus unserem eigenen Seiteninhalt.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 80 column 9
+
+# Die fehlerhafte HTML-Struktur stammt aus der automatisch generierten Suchseite des IG-Templates und nicht aus unserem eigenen Seiteninhalt.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 109 column 8
+
+# Die fehlerhafte HTML-Struktur stammt aus der automatisch generierten Suchseite des IG-Templates und nicht aus unserem eigenen Seiteninhalt.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 111 column 12
+
+# Die fehlerhafte HTML-Struktur stammt aus der automatisch generierten Suchseite des IG-Templates und nicht aus unserem eigenen Seiteninhalt.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 112 column 20
+
+# Die fehlerhafte HTML-Struktur stammt aus der automatisch generierten Suchseite des IG-Templates und nicht aus unserem eigenen Seiteninhalt.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 113 column 16
+
+# Die fehlerhafte HTML-Struktur stammt aus der automatisch generierten Suchseite des IG-Templates und nicht aus unserem eigenen Seiteninhalt.
+The html source is not well formed: Found "</div>" expecting "</body>" at line 115 column 12
+
+# Dieses Standard-Template-Fragment wird in unserem Implementation Guide nicht benötigt.
+The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+
+# Die Cross-Version-Analyse wird in unserem Implementation Guide nicht verwendet.
+An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+
+# Die Abhängigkeitstabelle wird in unserem Implementation Guide nicht benötigt, da die Abhängigkeiten bereits in der Konfiguration definiert sind.
+An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+
+# Die globale Tabelle ist für den Umfang unseres Implementation Guide nicht erforderlich.
+The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+
+# Die CH-Term-Version 3.3.0 wird gemäss Aufgabenstellung verwendet. Ein Update auf 3.4.0 ist deshalb nicht vorgesehen.
+The ImplementationGuide uses package ch.fhir.ig.ch-term#3.3.0 released on 2025-12-15, but the most recent appropriate version is 3.4.0. This reference is getting old and the more recent version should be considered
+
+# Das Pattern wird verwendet, um die Kategorie auf medication einzuschränken. Die Warnung betrifft die technische Verarbeitung dieses wiederholbaren Elements durch den .NET-Validator.
+The repeating element has a pattern value for a primitive type. The DotNet validator will not apply this to all the repeats - this is an error
