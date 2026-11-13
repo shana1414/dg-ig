@@ -27,7 +27,7 @@ Description: "Beispiel einer bestätigten Penicillinallergie mit dokumentierter 
 * category = #medication
 * clinicalStatus = $allergy-clinical#active
 * verificationStatus = $allergy-verification#confirmed
-* code = $sct##91936005 "Allergy to penicillin (finding)"
+* code = $sct#294499007 "Allergy to benzylpenicillin (finding)"
 * criticality = #high
 * onsetDateTime = "2020-05-05"
 * recorder = Reference(DrSaraKeller)

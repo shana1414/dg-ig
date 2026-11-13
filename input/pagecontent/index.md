@@ -14,8 +14,6 @@ Dieses Implementation Guide beschreibt die strukturierte Erfassung von Arzneimit
 
 ### Artefakte
 
-TODO: Ergänzt pro Artefakt einen Satz, wofür es da ist.
-
 * [DG Arzneimittelallergie](StructureDefinition-dg-medication-allergy.html): Definiert das Profil für die strukturierte Erfassung von Arzneimittelallergien.
 * [Penicillin Allergie Anna M."](AllergyIntolerance-PenicillinAllergieAnna.html): Zeigt ein konkretes Beispiel einer bestätigten Penicillinallergie mit dokumentierter Reaktion.
 
@@ -27,7 +25,6 @@ TODO: Ergänzt pro Artefakt einen Satz, wofür es da ist.
 Dieses IG baut auf [CH Core 6.0.0](https://fhir.ch/ig/ch-core/6.0.0/) auf.
 
 ### Autorin oder Autor
-
-TODO: Shana Mazzola
+Shana Mazzola
 
 <p style="font-size:smaller">Erstellt im Lab des Moduls Data Standards in Healthcare, ZHAW, HS26. Kein offizieller Standard.</p>
