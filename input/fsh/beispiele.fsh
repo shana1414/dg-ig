@@ -18,7 +18,7 @@
 // sie eine Reaktion.
 // =====================================================================
 
-Instance: PenicillinAllergieAnna                        // z. B. PenicillinAllergieAnna
+Instance: PenicillinAllergieAnna                // z. B. PenicillinAllergieAnna
 InstanceOf: DgMedicationAllergy
 Usage: #example
 Title: "Penicillin Allergie Anna M."

@@ -10,12 +10,12 @@ In einer Hausarztpraxis werden Arzneimittelallergien von Patientinnen und Patien
 
 ### Scope
 
-Dieses Implementation Guide beschreibt die strukturierte Erfassung von Arzneimittelallergien mit der FHIR-Ressource AllergyIntolerance. Es legt fest, welche Angaben erfasst werden sollen, beispielsweise den klinischen Status, den Allergiecode, die Kritikalität und mögliche Reaktionen. Andere Allergiearten werden nicht abgedeckt.
+Dieses Implementation Guide beschreibt die Erfassung von Arzneimittelallergien mit der FHIR-Ressource AllergyIntolerance. Es legt fest, welche Angaben erfasst werden sollen, beispielsweise den klinischen Status, den Allergiecode, die Kritikalität und mögliche Reaktionen. Andere Allergiearten werden nicht abgedeckt.
 
 ### Artefakte
 
 * [DG Arzneimittelallergie](StructureDefinition-dg-medication-allergy.html): Definiert das Profil für die strukturierte Erfassung von Arzneimittelallergien.
-* [Penicillin Allergie Anna M."](AllergyIntolerance-PenicillinAllergieAnna.html): Zeigt ein konkretes Beispiel einer bestätigten Penicillinallergie mit dokumentierter Reaktion.
+* [Penicillin Allergie Anna M.](AllergyIntolerance-PenicillinAllergieAnna.html): Zeigt ein konkretes Beispiel einer bestätigten Penicillinallergie mit dokumentierter Reaktion.
 
 <!-- TODO_Name ist der Name hinter "Instance:" in beispiele.fsh,
      z. B. AllergyIntolerance-PenicillinAllergieAnna.html -->
